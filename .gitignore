@@ -1,0 +1,6 @@
+# 项目运行与开发缓存，不纳入版本管理
+.workbuddy/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
